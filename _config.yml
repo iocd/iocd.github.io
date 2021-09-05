@@ -119,6 +119,8 @@ smart_menu:
   friends: '友链'
   aboutme: '关于我'
 
+theme: yilia
+
 friends:
   廖雪峰: http://www.liaoxuefeng.com/
   阮一峰: http://www.ruanyifeng.com/blog/
